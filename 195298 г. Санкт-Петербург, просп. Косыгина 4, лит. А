@@ -1,0 +1,802 @@
+[
+    {
+        "id": 437389,
+        "name": "Йогурт Epica натуральный ананас 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/epica-ananas-130-g-bzmzh",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 247768,
+        "name": "Йогурт Даниссимо Фантазия с ягодными шариками 6.9%, 105г",
+        "url": "https://online.metro-cc.ru/products/danissimo-fantaziya-s-hrustyaschimi-yagodnymi-sharikami-105g",
+        "price": 63.9,
+        "price_dicsount": null,
+        "brand": "ДАНИССИМО"
+    },
+    {
+        "id": 596255418,
+        "name": "Йогурт Актибио натуральный 3.5%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-35-aktibio-naturalnyy-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 438343,
+        "name": "Йогурт Epica натуральный клубника 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/epica-klubnika-130-g-bzmzh",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 550291571,
+        "name": "Йогурт Viola безлактозный Free 3.4%, 180г",
+        "url": "https://online.metro-cc.ru/products/yogurt-viola-bezlaktoznyy-free-34-180g",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 594057,
+        "name": "Йогуртный продукт Alpenland клубника, персик и маракуйя 0.3%, 95г",
+        "url": "https://online.metro-cc.ru/products/jogurtnyj-produkt-alpenland-klubnika-persik-marakujya-03-95-g",
+        "price": 17.99,
+        "price_dicsount": null,
+        "brand": "ALPENLAND"
+    },
+    {
+        "id": 607490204,
+        "name": "Йогурт Neo Греческий классический 2%, 125г",
+        "url": "https://online.metro-cc.ru/products/125g-yogurt-grecheskiy-2-neo-klassicheskiy-bzmzh",
+        "price": 62.9,
+        "price_dicsount": 54.9,
+        "brand": "NEO"
+    },
+    {
+        "id": 596256843,
+        "name": "Йогурт питьевой Актибио яблоко-персик без сахара 1.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-pitevoy-15-aktibio-yabl-persik-b-sah-bzmzh",
+        "price": 79.9,
+        "price_dicsount": 73.9,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 571128,
+        "name": "Йогурт питьевой Актибио яблоко-клубника-черника без сахара 1.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/jogurt-pityevoj-aktibio-yabloko-klubnika-chernika-bez-sahara-1-5-260g",
+        "price": 79.9,
+        "price_dicsount": 73.9,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 550291956,
+        "name": "Йогурт Viola безлактозный Free клубника-маракуйя 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/yogurt-viola-bezlaktoznyy-free-klubnika-marakuyya-27-180g",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 84245306,
+        "name": "Йогурт Viola Very Berry черника-клубника 2.6%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-26-viola-very-berry-chernikaklubn-bzmzh",
+        "price": 86.9,
+        "price_dicsount": 79.9,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 84245301,
+        "name": "Йогурт Viola Very Berry Манго 2.6%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-26-viola-very-berry-mango-bzmzh",
+        "price": 86.9,
+        "price_dicsount": 79.9,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 596254223,
+        "name": "Йогурт Актибио мюсли-киви 3%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-3-aktibio-myusli-kivi-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 463943,
+        "name": "Йогурт Epica гранат малина 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/art-600446",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 442997,
+        "name": "Йогурт Teos Греческий вишня 2%, 140г",
+        "url": "https://online.metro-cc.ru/products/grecheskij-savushkin-produkt-vishnya-2-140g-bzmzh",
+        "price": 59.9,
+        "price_dicsount": null,
+        "brand": "TEOS"
+    },
+    {
+        "id": 596255463,
+        "name": "Йогурт питьевой Актибио клубника-земляника 1.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-pitevoy-15-aktibio-klubnika-zemlyanika-bzmzh",
+        "price": 73.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 537469784,
+        "name": "Йогурт Простоквашино вишня-черешня 2.9%, 110г",
+        "url": "https://online.metro-cc.ru/products/prostokvashino-s-vishnej-chereshnej-2-9-110g",
+        "price": 37.49,
+        "price_dicsount": null,
+        "brand": "ПРОСТОКВАШИНО"
+    },
+    {
+        "id": 595117,
+        "name": "Йогурт Даниссимо Фантазия с хрустящими шариками со вкусом вишни и финика 6.9%, 105г",
+        "url": "https://online.metro-cc.ru/products/105g-danissimo-fant-69-hr-shar-vishn-fin-bzmzh",
+        "price": 63.9,
+        "price_dicsount": null,
+        "brand": "ДАНИССИМО"
+    },
+    {
+        "id": 499687,
+        "name": "Йогурт Epica Bouquet голубика лаванда 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/art-630945",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 596256838,
+        "name": "Йогурт питьевой Актибио яблоко-вишня-финик без сахара 1.5%,260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-pitevoy-15-aktibio-yabl-vishnya-fin-b-sah-bzmzh",
+        "price": 79.9,
+        "price_dicsount": 73.9,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 596255558,
+        "name": "Йогурт Актибио клубника 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-klubnika-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 85316811,
+        "name": "Йогурт питьевой Чудо Клубника-земляника 1.9%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pit-yogurt-19-chudo-klubnika-zmlyanika-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 596255538,
+        "name": "Йогурт Актибио вишня 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-vishnya-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 84245101,
+        "name": "Йогурт Чудо персик-маракуйя 2%, 290г",
+        "url": "https://online.metro-cc.ru/products/290g-yogurt-2-chudo-persikmarakuyya-bzmzh",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 629978,
+        "name": "Йогурт Чудо хрустящий шоколадный соблазн 3%, 105г",
+        "url": "https://online.metro-cc.ru/products/105g-jogurt-3-chudo-desert-shokolad-pech-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 547176,
+        "name": "Йогурт Даниссимо Фантазия с хрустящими шариками со вкусом манго и маракуйи 6.9%, 105г",
+        "url": "https://online.metro-cc.ru/products/danissimo-fantaziya-mango-marakujya-hrustyaschie-shariki-69-105-g-bzmzh",
+        "price": 63.9,
+        "price_dicsount": null,
+        "brand": "ДАНИССИМО"
+    },
+    {
+        "id": 583644,
+        "name": "Йогурт Epica киви фейхоа 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/jogurt-epica-s-kivi-fejhoa-48-130-g",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 88769170,
+        "name": "Йогурт Чудо Клубника-земляника 2%, 290г",
+        "url": "https://online.metro-cc.ru/products/290g-yogurt-2-chudo-klubnikazemlyanika-bzmzh",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 604673,
+        "name": "Йогурт питьевой Epica манго 2.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pityevoj-25-epica-mango-bzmzh",
+        "price": 70.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 216401,
+        "name": "Йогуртный продукт Fruttis Вишневый пломбир/с грушей и ароматом ванили 8%, 115г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-vishnevyj-plombir-grusha-vanil-8-115-g-bzmzh",
+        "price": 35.9,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 513416,
+        "name": "Йогурт Epica Crispy фисташки 4.8%, 140г",
+        "url": "https://online.metro-cc.ru/products/epica-crispy-s-fistashkami-smes-iz-semyan-podsolnechnika-orehov-temnogo-shokolada-48-140g-bzmzh",
+        "price": 82.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 88769175,
+        "name": "Йогурт Чудо Вишня-черешня 2%, 290г",
+        "url": "https://online.metro-cc.ru/products/290g-yogurt-2-chudo-vishnyachereshnya-bzmzh",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 444417,
+        "name": "Йогурт Teos Греческий клубника 2%, 140г",
+        "url": "https://online.metro-cc.ru/products/jogurt-grecheskij-savushkin-produkt-klubnika-2-140g-bzmzh",
+        "price": 59.9,
+        "price_dicsount": null,
+        "brand": "TEOS"
+    },
+    {
+        "id": 216790,
+        "name": "Йогуртный продукт Fruttis C яблоком и грушей/с клубникой 8%, 115г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-superekstra-klubnika-yabloko-grusha-8-115g",
+        "price": 35.9,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 630303,
+        "name": "Йогурт Чудо хрустящий вафельный восторг 3%, 105г",
+        "url": "https://online.metro-cc.ru/products/105g-jogurt-3-chudo-desert-vafl-shokol-pech-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 85316921,
+        "name": "Йогурт Viola Laplandia сливочный 8.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-85-viola-laplandia-slivochnyy-bzmzh",
+        "price": 91.91,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 85317041,
+        "name": "Йогурт Viola Laplandia Малина и сыр Маскарпоне сливочный 7.2%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-72-viola-laplandia-mal-maskorpone-bzmzh",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 537537154,
+        "name": "Йогурт термостатный Простоквашино натуральный 4%, 160г",
+        "url": "https://online.metro-cc.ru/products/prostokvashino-termostatnyj-4-160g",
+        "price": 48.49,
+        "price_dicsount": null,
+        "brand": "ПРОСТОКВАШИНО"
+    },
+    {
+        "id": 537469789,
+        "name": "Йогурт Простоквашино клубника 2.9%, 110г",
+        "url": "https://online.metro-cc.ru/products/prostokvashino-s-klubnikoj-2-9-110g",
+        "price": 37.49,
+        "price_dicsount": null,
+        "brand": "ПРОСТОКВАШИНО"
+    },
+    {
+        "id": 596255563,
+        "name": "Йогурт Актибио отруби-злаки 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-otrubi-zlaki-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 88769155,
+        "name": "Йогурт питьевой Чудо вишня-черешня 1.9%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pit-yogurt-19-chudo-vishnya-chereshnya-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 596256923,
+        "name": "Йогурт Актибио черника-злаки-лен 3%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-3-aktibio-cher-zlaki-len-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 560305135,
+        "name": "Йогурт Фругурт фруктовый вишня 2%, 240г",
+        "url": "https://online.metro-cc.ru/products/240g-yogurt-fruktovyy-2-frugurt-vishnya-bzmzh",
+        "price": 64.9,
+        "price_dicsount": null,
+        "brand": "ФРУГУРТ"
+    },
+    {
+        "id": 534201,
+        "name": "Йогурт Lactica Греческий с инжиром и курагой двухслойный 3%, 190г",
+        "url": "https://online.metro-cc.ru/products/art-657747",
+        "price": 104.01,
+        "price_dicsount": null,
+        "brand": "LACTICA"
+    },
+    {
+        "id": 149939896,
+        "name": "Йогурт питьевой Viola малина-черника 0.4%, 280г",
+        "url": "https://online.metro-cc.ru/products/280g-pityogurt-04-viola-malinachernika-bzmzh",
+        "price": 77.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 84245246,
+        "name": "Йогурт Viola натуральный 3.4%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-34-viola-naturalnyy-bzmzh",
+        "price": 89.9,
+        "price_dicsount": 79.9,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 513093,
+        "name": "Йогурт Epica Crispy карамель 4.8%, 140г",
+        "url": "https://online.metro-cc.ru/products/epica-crispy-karamel-140g-bzmzh",
+        "price": 82.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 513534,
+        "name": "Йогурт Epica Crispy лимон 4.8%, 140г",
+        "url": "https://online.metro-cc.ru/products/epica-crispy-limon-140g-bzmzh",
+        "price": 82.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 437524,
+        "name": "Йогурт Epica натуральный кокос ваниль 6.3%, 130г",
+        "url": "https://online.metro-cc.ru/products/epica-kokos-vanil-130g-bzmzh",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 603218106,
+        "name": "Йогурт Epica банан-злаки 4.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-49-epica-bananzlaki-bzmzh",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 327783907,
+        "name": "Йогурт Молочная культура вишня-гранола 2.7-3.5%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-yogurt-27-35-molochnaya-kultura-vish-gran-bzmzh",
+        "price": 106,
+        "price_dicsount": 74.9,
+        "brand": "МОЛОЧНАЯ КУЛЬТУРА"
+    },
+    {
+        "id": 605222,
+        "name": "Йогурт питьевой Epica клубника маракуйя 2.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pityevoj-25-epica-klub-marak-bzmzh",
+        "price": 70.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 85317036,
+        "name": "Йогурт Viola Laplandia Крем-брюле сливочный 7%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-7-viola-laplandia-krem-bryule-bzmzh",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 605768,
+        "name": "Йогурт питьевой Epica вишня банан 2.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pityevoj-25-epica-vishnya-banan-bzmzh",
+        "price": 70.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 147342401,
+        "name": "Йогурт питьевой Viola манго 0.4%, 280г",
+        "url": "https://online.metro-cc.ru/products/280g-pitevoy-yogurt-04-viola-mango-bzmzh",
+        "price": 77.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 560499560,
+        "name": "Йогурт Фругурт персик-маракуйя фруктовый 2%, 240г",
+        "url": "https://online.metro-cc.ru/products/240g-yogurt-fruktovyy-2-frugurt-persikmarakuy-bzmzh",
+        "price": 64.9,
+        "price_dicsount": null,
+        "brand": "ФРУГУРТ"
+    },
+    {
+        "id": 603219121,
+        "name": "Йогурт Epica малина-лимон 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-48-epica-malinalimon-bzmzh",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 628634040,
+        "name": "Йогурт Чудо Банан-клубника-манго 2%, 290г",
+        "url": "https://online.metro-cc.ru/products/290g-yogurt-2-chudo-bananklubnikamango-bzmzh",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 596256908,
+        "name": "Йогурт Актибио чернослив 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-chernosliv-bzmzh",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 550291951,
+        "name": "Йогурт Viola безлактозный Free дыня-семена чиа 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/yogurt-viola-bezlaktoznyy-free-dynya-semena-chia-27-180g",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 636057152,
+        "name": "Йогурт Viola Laplandia с наполнителем Лимонный пирог 7.1%, 180г",
+        "url": "https://online.metro-cc.ru/products/yogurt-viola-laplandia-s-napolnitelem-limonnyy-pirog-71-180g",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 574466,
+        "name": "Йогурт питьевой Parmalat безлактозный натуральный, 290г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-parmalat-bezlaktoznyj-naturalnyj-bez-zamenitelya-molochnogo-zhira-290-g",
+        "price": 93.9,
+        "price_dicsount": 79.9,
+        "brand": "PARMALAT"
+    },
+    {
+        "id": 634222116,
+        "name": "Продукт кисломолочный Exponenta High-pro Натуральный обезжиренный с высоким содержанием белка, 160г",
+        "url": "https://online.metro-cc.ru/products/produkt-kislomolochnyy-exponenta-high-pro-naturalnyy-obezzhirennyy-s-vysokim-soderzhaniem-belka-160g",
+        "price": 117,
+        "price_dicsount": null,
+        "brand": "EXPONENTA"
+    },
+    {
+        "id": 550528136,
+        "name": "Йогурт Viola безлактозный Free малина-черная смородина 2.7%, 180г",
+        "url": "https://online.metro-cc.ru/products/yogurt-viola-bezlaktoznyy-free-malina-chernaya-smorodina-27-180g",
+        "price": 89.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 594239,
+        "name": "Йогуртный продукт Alpenland лесные ягоды, яблоко и груша 0.3%, 95г",
+        "url": "https://online.metro-cc.ru/products/jogurtnyj-produkt-alpenland-lesnye-yagody-yabloko-grusha-03-95-g",
+        "price": 17.99,
+        "price_dicsount": null,
+        "brand": "ALPENLAND"
+    },
+    {
+        "id": 509760,
+        "name": "Йогуртный продукт Fruttis С клубникой/с персиком 5%, 115г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-5-115g-bzmzh",
+        "price": 34.99,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 596254218,
+        "name": "Йогурт Актибио клубника-яблоко-питахайя 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-klub-yabl-pitah-bzmzh",
+        "price": 50.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 583636,
+        "name": "Йогурт Epica Crispy клубника кокос 7.3%, 138г",
+        "url": "https://online.metro-cc.ru/products/jogurt-epica-crispy-kokosovoe-pechenye-s-klubnikoj-138g",
+        "price": 82.9,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 499657,
+        "name": "Йогурт Epica Bouquet клубника роза 4.8%, 130г",
+        "url": "https://online.metro-cc.ru/products/art-630946",
+        "price": 56.99,
+        "price_dicsount": null,
+        "brand": "EPICA"
+    },
+    {
+        "id": 446613,
+        "name": "Йогуртный продукт Нежный с соком абрикоса-манго 1.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/jogurt-nezhnyj-s-sokom-abrikosa-mango-12-100-g",
+        "price": 23.49,
+        "price_dicsount": null,
+        "brand": "НЕЖНЫЙ"
+    },
+    {
+        "id": 574332,
+        "name": "Йогурт питьевой Parmalat безлактозный клубника, 290г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-klubnichnyj-parmalat-290g-bzmzh",
+        "price": 99.9,
+        "price_dicsount": 85.9,
+        "brand": "PARMALAT"
+    },
+    {
+        "id": 327783902,
+        "name": "Йогурт Молочная культура абрикос-гранола 2.7-3.5%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-yogurt-27-35-molochnaya-kultura-abr-gran-bzmzh",
+        "price": 106,
+        "price_dicsount": 74.9,
+        "brand": "МОЛОЧНАЯ КУЛЬТУРА"
+    },
+    {
+        "id": 631877846,
+        "name": "Биойогурт Актибио манго 3%, 130г",
+        "url": "https://online.metro-cc.ru/products/bioyogurt-aktibio-mango-3-130g",
+        "price": 50,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 149939886,
+        "name": "Йогурт питьевой Viola натуральный 0.4%, 280г",
+        "url": "https://online.metro-cc.ru/products/280g-pitevoy-yogurt-04-viola-naturalnyy-bzmzh",
+        "price": 79.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 131501,
+        "name": "Йогуртный продукт Нежный с соком вишни, 1.2% 100г",
+        "url": "https://online.metro-cc.ru/products/art-471027",
+        "price": 23.49,
+        "price_dicsount": null,
+        "brand": "НЕЖНЫЙ"
+    },
+    {
+        "id": 596256833,
+        "name": "Йогурт питьевой Актибио дыня-клубника-земляника 1.5%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-pitevoy-15-aktibio-dynya-klubn-zeml-bzmzh",
+        "price": 73.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 84245091,
+        "name": "Йогурт питьевой Чудо персик-манго-дыня 1.9%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pit-yogurt-19-chudo-persik-mango-dynya-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 509731,
+        "name": "Йогуртный продукт Fruttis Маракуйя-персик/Вишня 0.1%, 110г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-legkij-vishnya-persik-marakujya-01-110g-bzmzh",
+        "price": 25.99,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 601655699,
+        "name": "Йогурт питьевой Teos натуральный 2%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-yogurt-pitevoy-2-teos-naturalnyy-bzmzh",
+        "price": 72.99,
+        "price_dicsount": null,
+        "brand": "TEOS"
+    },
+    {
+        "id": 121378,
+        "name": "Йогуртный продукт Нежный с соком клубники 1.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/nezhnyj-s-sokom-klubniki-12-100g",
+        "price": 23.49,
+        "price_dicsount": null,
+        "brand": "НЕЖНЫЙ"
+    },
+    {
+        "id": 84245096,
+        "name": "Йогурт питьевой Чудо Клубника-земляника 1.9%, 680г",
+        "url": "https://online.metro-cc.ru/products/680g-pit-yogurt-19-chudo-klubnika-zamlyanika-bzmzh",
+        "price": 174,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 85316866,
+        "name": "Йогурт питьевой Чудо черника-малина 1.9%, 260г",
+        "url": "https://online.metro-cc.ru/products/260g-pit-yogurt-19-chudo-chernika-malina-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 574615,
+        "name": "Йогурт питьевой Parmalat безлактозный мюсли и кокос, 290г",
+        "url": "https://online.metro-cc.ru/products/art-92979",
+        "price": 99.9,
+        "price_dicsount": 85.9,
+        "brand": "PARMALAT"
+    },
+    {
+        "id": 594189,
+        "name": "Йогуртный продукт Alpenland вишня, нектарин и дикий апельсин 0.3%, 95г",
+        "url": "https://online.metro-cc.ru/products/produkt-alpenland-jogurtnyj-vishnya-nektarin-dikij-apelsin-03-95-g",
+        "price": 17.99,
+        "price_dicsount": null,
+        "brand": "ALPENLAND"
+    },
+    {
+        "id": 628633671,
+        "name": "Йогурт питьевой Чудо Банан-клубника-манго 1.9%, 680г",
+        "url": "https://online.metro-cc.ru/products/680g-yogurt-pit-19-chudo-bananklubnikamango-bzmzh",
+        "price": 174,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 596256903,
+        "name": "Йогурт Актибио виноград-манго-папайя-семена чиа 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-vin-mng-pap-chia-bzmzh",
+        "price": 50.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 596255553,
+        "name": "Биойогурт Актибио отруби-злаки 2.9%, 220г",
+        "url": "https://online.metro-cc.ru/products/220g-bioyogurt-29-aktibio-otrubi-zlaki-bzmzh",
+        "price": 67.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 85316981,
+        "name": "Йогурт Viola Laplandia Черничный маффин сливочный 7.2%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-72-viola-laplandia-chernich-maffin-bzmzh",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 574154,
+        "name": "Йогурт питьевой Эконива с персиком 2.5%, 300г",
+        "url": "https://online.metro-cc.ru/products/pityevoj-ekoniva-fit-line-persik-25-bez-zamenitelya-molochnogo-zhira-300-g",
+        "price": 65.9,
+        "price_dicsount": null,
+        "brand": "ЭКОНИВА"
+    },
+    {
+        "id": 234165,
+        "name": "Йогуртный продукт Fruttis Банана сплит/ Пина колада 8%, 115г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-banana-split-pinakolada-8-115-g-bzmzh",
+        "price": 35.9,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 88769200,
+        "name": "Йогурт Viola Laplandia Клубника и бисквит сливочный 7.1%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-71-viola-laplandia-klubn-biskvit-bzmzh",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 629363,
+        "name": "Йогурт Чудо хрустящее кокосовое искушение 3%, 105г",
+        "url": "https://online.metro-cc.ru/products/105g-jogurt-3-chudo-desert-kokos-shariki-pech-bzmzh",
+        "price": 66.9,
+        "price_dicsount": null,
+        "brand": "ЧУДО"
+    },
+    {
+        "id": 596255423,
+        "name": "Йогурт питьевой Актибио чернослив 1.5%, 870г",
+        "url": "https://online.metro-cc.ru/products/870g-yogurt-pitevoy-15-aktibio-chernosliv-bzmzh",
+        "price": 169,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 236545140,
+        "name": "Биойогурт Эконива с черникой 2.8%, 125г",
+        "url": "https://online.metro-cc.ru/products/125g-bioyogurt-28-ekoniva-chernika-bzmzh",
+        "price": 46.9,
+        "price_dicsount": 39.9,
+        "brand": "ЭКОНИВА"
+    },
+    {
+        "id": 85316976,
+        "name": "Йогурт Viola Laplandia с ржаным хлебом и корицей сливочный 7.1%, 180г",
+        "url": "https://online.metro-cc.ru/products/180g-yogurt-71-viola-laplandia-rzh-hlebkoritsa-bzmzh",
+        "price": 87.9,
+        "price_dicsount": null,
+        "brand": "VIOLA"
+    },
+    {
+        "id": 636892327,
+        "name": "Йогурт питьевой Домик в деревне натуральный без сахара 1.8%, 680г",
+        "url": "https://online.metro-cc.ru/products/680g-yogurt-pit-18-domik-v-derevne-natur-bsah-pet-bzmzh",
+        "price": 129,
+        "price_dicsount": null,
+        "brand": "ДОМИК В ДЕРЕВНЕ"
+    },
+    {
+        "id": 596255543,
+        "name": "Йогурт Актибио вишня-яблоко-малина 2.9%, 130г",
+        "url": "https://online.metro-cc.ru/products/130g-yogurt-29-aktibio-vish-yab-mal-bzmzh",
+        "price": 50.9,
+        "price_dicsount": null,
+        "brand": "АКТИБИО"
+    },
+    {
+        "id": 162159,
+        "name": "Йогуртный продукт Fruttis C малиной/c ананасом и дыней 8%, 115г",
+        "url": "https://online.metro-cc.ru/products/produkt-fruttis-8-malina-ananas-dynya-4h115g",
+        "price": 35.9,
+        "price_dicsount": null,
+        "brand": "FRUTTIS"
+    },
+    {
+        "id": 327783892,
+        "name": "Йогурт Молочная культура лесные ягоды-гранола 2.7-3.5%, 190г",
+        "url": "https://online.metro-cc.ru/products/190g-yog-27-35-molochnaya-kultura-lesyag-gran-bzmzh",
+        "price": 106,
+        "price_dicsount": 74.9,
+        "brand": "МОЛОЧНАЯ КУЛЬТУРА"
+    },
+    {
+        "id": 110981,
+        "name": "Йогуртный продукт Нежный с соком персика 1.2%, 100г",
+        "url": "https://online.metro-cc.ru/products/nezhnyj-persik-12-100g",
+        "price": 23.49,
+        "price_dicsount": null,
+        "brand": "НЕЖНЫЙ"
+    }
+]

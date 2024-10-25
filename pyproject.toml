@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "yes"
+version = "0.1.0"
+description = ""
+authors = ["D.I."]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+ruff = "^0.7.1"
+mypy = "^1.13.0"
+selenium = "^4.25.0"
+undetected-chromedriver = "^3.5.5"
+webdriver-manager = "^4.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
