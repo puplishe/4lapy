@@ -10,6 +10,7 @@
    ```bash
    git clone https://github.com/yourusername/metro-parser.git
    cd metro-parser
-2. Запустите проект 
+3. Установите зависимости.
+4. Запустите проект 
     ```bash
     python main.py
